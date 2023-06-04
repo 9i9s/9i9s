@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align=center>
+  <a href="https://discord.com/users/846555197450485771"><img src="https://lanyard-profile-readme.vercel.app/api/846555197450485771" width=45%></a>
+</p>
 
-<!--
-**9i9s/9i9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/9i9s"><img src="https://img.shields.io/github/followers/9i9s?style=for-the-badge"></img></a>
+  <a href="https://github.com/9i9s"><img src="https://img.shields.io/github/stars/9i9s?style=for-the-badge"></img></a>
+  <a href="https://github.com/9i9s"><img src="https://komarev.com/ghpvc/?username=9i9s&style=for-the-badge"?></img></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/9i9s"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://github.com/9i9s"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  
+</p>
